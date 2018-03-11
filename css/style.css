@@ -184,10 +184,6 @@ hr {
 	padding: 25px 0 45px 0;
 }
 /* About Section */
-#about {
-	padding: 100px 0;
-	background: #f6f6f6;
-}
 #about .about-text {
 	margin-left: 10px;
 }
@@ -248,7 +244,7 @@ hr {
 }
 /* Portfolio Section */
 #portfolio {
-	padding: 80px 0;
+	padding: 100px 0;
 	background: #ffffff; /* Old browsers */
 	background: -moz-linear-gradient(top, #ffffff 0%, #f4f5f6 49%, #ffffff 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(49%, #f4f5f6), color-stop(100%, #ffffff)); /* Chrome,Safari4+ */
